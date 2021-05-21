@@ -1,0 +1,8 @@
+a=int(input())
+If a<10:
+    Print('a is smaller')
+    Print('v...')
+
+
+'''Output:a is smaller
+   V...'''
