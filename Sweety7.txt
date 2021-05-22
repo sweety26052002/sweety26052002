@@ -1,0 +1,10 @@
+#to check given num is even or odd
+a=ini(raw_input("Enter input"))
+If a%2==0:
+       Print("number is even")
+Else:
+       Print("number is odd")
+ 
+#output
+Enter input4
+number is even
