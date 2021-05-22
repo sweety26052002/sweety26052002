@@ -1,0 +1,14 @@
+#to check whether number is even or odd
+#code:
+a=int(raw_input("enter number"))
+if a%2==1:
+          Print("odd")
+else:
+          Print("even")
+ 
+
+'''
+
+#output
+enter number6
+even
