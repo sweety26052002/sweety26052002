@@ -1,0 +1,17 @@
+name=raw_input("Enter name")
+age=int(raw_input("Enter age"))
+if(age<18):
+            Print("sorry",name)
+            Print("you are not eligible for vote")
+else: 
+            Print("hello",name)
+            Print("You are eligible for vote")
+
+'''
+
+
+#ouput
+Enter nameTaehyung
+Enter age25
+helloTaehyung
+You are eligible for vote
