@@ -18,3 +18,6 @@ Printf("terminate")
 enter number9
 divisible by 3
 terminate
+
+
+'''
