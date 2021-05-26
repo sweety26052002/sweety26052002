@@ -1,0 +1,26 @@
+#nested if
+username=raw_input()
+Password=raw_input()
+if username="cseb":
+          if password="aec":
+                 Print"valid password"
+          else:
+                 Print"invalid password"
+else:
+    Print("invalid username")
+
+#output
+#case 1:
+Cseb
+Aec
+invalid username
+#case 2:
+cseb
+aec
+valid password
+#case 3:
+cseb
+Aec
+invalid password
+
+
